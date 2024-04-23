@@ -1,6 +1,7 @@
 ### Oii eu sou Vismar Flores 👋
 - 👨‍🎓 Estudante do curso de Analise e Desenvolvimento de Sistemas
 - 🌱 Estudando python 🐍🐍
+- 🌱 Estudando C#
 - 👯 Estou procurando colaborar na área de desenvolvimento.
 - 📫 Contate-me no email: vismarjc8@gmail.com
 

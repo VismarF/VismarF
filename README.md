@@ -1,6 +1,6 @@
 ### Oii eu sou Vismar Flores 👋
-- 👨‍🎓 Estudante do curso de Analise e Desenvolvimento de Sistemas
-- 🌱 Estudando C#
+- 💻 Desenvolvedor de Software com foco em C# e .NET 8
+- 🧱 Praticante de Clean Architecture e princípios SOLID para construção de sistemas escaláveis
 - 📫 Contate-me no email: vismarjc8@gmail.com
 _______________________________________________________
 ## Conect-se comigo

@@ -1,5 +1,5 @@
 ### Oii eu sou Vismar Flores 👋
-- 💻 Desenvolvedor de Software com foco em C# e .NET 8
+- 💻 Desenvolvedor de Software com foco em C# e .NET
 - 🧱 Praticante de Clean Architecture e princípios SOLID para construção de sistemas escaláveis
 - 📫 Contate-me no email: vismarjc8@gmail.com
 _______________________________________________________
